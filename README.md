@@ -1,5 +1,7 @@
 # page-demos
 
+> **Moved.** These demos now live in [google-ai-edge/litert-samples](https://github.com/google-ai-edge/litert-samples/tree/main/samples/web_demos) (`samples/web_demos`) and are served at https://google-ai-edge.github.io/litert-samples/samples/web_demos/dist/ . The old URLs under john-rocky.github.io/page-demos redirect there (the `gh-pages` branch is redirect stubs only — do not run `npm run deploy` from this repo). This repository is kept as the pre-merge source history.
+
 Small browser demos that run real ML models **entirely in your browser** with
 [LiteRT.js](https://www.npmjs.com/package/@litertjs/core) (WebGPU). No server,
 no upload — the input never leaves the page.
